@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Josef Schnitzhofer GmbH - Das Autohaus in Abtenau.
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: "100 Jahre in Bewegung: Unser Autohaus mit drei Marken, Autowerkstatt, Ersatzteilhandel und Karosseriezentrum wird als Familienbetrieb in vierter Generation geführt. Verlässlich, persönlich, innovativ, preiswert und unabhängig."
+intro_image: "images/photos/header.jpg"
 intro_image_absolute: true
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Das Autohaus in Abtenau.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+100 Jahre in Bewegung: Unser Autohaus mit drei Marken, Autowerkstatt, Ersatzteilhandel und Karosseriezentrum wird als Familienbetrieb in vierter Generation geführt. Verlässlich, persönlich, innovativ, preiswert und unabhängig. <sub>Josef Schnitzhofer IV. – Geschäftsführer</sub>

@@ -10,6 +10,9 @@
   flex-direction: row;
   flex-wrap: wrap;
   z-index: 2;
+  @include media-breakpoint-up(md) {
+    width: 80%;
+  }
   @include media-breakpoint-up(sm) {
     align-items: center;
     flex-direction: row;
