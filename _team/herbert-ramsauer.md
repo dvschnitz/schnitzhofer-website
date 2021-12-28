@@ -5,7 +5,6 @@ draft: false
 image: "images/team/herbert-ramsauer.jpg"
 jobtitle: "WERKSTATTLEITER, SERVICEBERATER"
 phone: "06243/2298-41"
-email: "herbert@schnitzhofer.at"
 promoted: true
 weight: 5
 ---

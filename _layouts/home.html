@@ -26,16 +26,18 @@ bodyClass: "page-home"
     <div class="row justify-content-start">
       {% assign weighted_services = site.services | sort: "weight" %}
       {% for service in weighted_services %}
-      <div class="col-12 col-md-4 mb-1">
-        <div class="service service-summary">
-          <div class="service-content">
-            <h2 class="service-title">
-              <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
-            </h2>
-            <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+        {% if service.featured %}
+        <div class="col-12 col-md-4 mb-1">
+          <div class="service service-summary">
+            <div class="service-content">
+              <h2 class="service-title">
+                <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+              </h2>
+              <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+            </div>
           </div>
         </div>
-      </div>
+        {% endif %}
       {% endfor %}
     </div>
     <div class="row justify-content-center">
@@ -43,6 +45,22 @@ bodyClass: "page-home"
         <a class="button button-primary" href="{{ "services" | relative_url }}">Alle Dienstleistungen</a>
       </div>
     </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row justify-content-start">
+    <h2 class="title">Fahrzeugangebot</h2>
+    <iframe src="https://fahrzeuge.schnitzhofer.at/carousel/?popup=1"
+      width="100%"
+      height="500px"
+      name="Gebrauchtwagen"
+      style="border: none; overflow-y: gone;">
+      <p>Ihr Browser kann leider keine eingebetteten Frames anzeigen:
+      Sie können die eingebettete Seite über den folgenden Verweis aufrufen:
+      <a href="fahrzeuge.schnitzhofer.at">SELFHTML</a>
+      </p>
+    </iframe>
   </div>
 </div>
 

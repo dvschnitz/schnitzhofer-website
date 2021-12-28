@@ -5,7 +5,6 @@ draft: false
 image: "images/team/josef-schnitzhofer.jpg"
 jobtitle: "GESCHÄFTSLEITUNG, VERKAUF"
 phone: "06243/2298-17"
-email: "josef@schnitzhofer.at"
 promoted: true
 weight: 1
 layout: team

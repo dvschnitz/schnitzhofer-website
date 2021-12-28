@@ -5,7 +5,6 @@ draft: false
 image: "images/team/alexandra-kranebitter.jpg"
 jobtitle: "BÜRO, SERVICEASSISTENZ"
 phone: "06243/2298"
-email: "info@schnitzhofer.at"
 promoted: true
 weight: 4
 ---
