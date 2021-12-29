@@ -3,6 +3,7 @@ title: "Autowerkstatt"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 1
+intro_image: "images/photos/autowerkstatt.jpg"
 ---
 
 ## Preiswert und verlässlich

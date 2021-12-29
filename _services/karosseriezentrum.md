@@ -1,60 +1,59 @@
 ---
-title: "Karosseriezentrum"
+title: "Karosserie&shy;zentrum"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 weight: 2
+intro_image: "images/photos/dellen.jpg"
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+## Ihr Fahrzeug in besten Händen in unserem Karosseriezentrum
+Das modernste Karosseriezentrum im Tennengau. Hier sorgen unsere Spezialisten mithilfe moderner, umweltfreundlicher und effizienter Methoden dafür, dass Ihr Fahrzeug nach einem Blechschaden wieder in neuem Glanz erstrahlt. Karosseriezentrum Schnitzhofer – Ihr Spezialist für Autoinstandsetzungen.
 
-## Inter pectore totidem
+## Fahrzeuglackierung
+Wir sorgen in unserer Autolackiererei für ein perfektes Lackierergebnis. Unsere neue Lackierkabine bietet dank effizientem Lüftungssystem und extra heller Beleuchtung ideale Rahmenbedingungen für ein perfektes Ergebnis. Für eine nochmals verbesserte Farbtonfindung haben wir ein spezielles Messgerät angeschafft. Dieses ermöglicht es, innerhalb kürzester Zeit den passenden Farbton zu treffen. Mithilfe des umfangreichen Basislacklagers kann so mithilfe einer modernen Lackmischanlage umgehend der richtige Farbton hergestellt und anschließend in der Lackierkabine am Fahrzeug aufgetragen werden.
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
+## Karosserieinstandsetzung
+Zum besseren Schutz der Insassen sind moderne Karosserien heute aus verschiedensten hochfesten und ultrahochfesten Stahllegierungen hergestellt. Diese bieten höchstmögliche Sicherheit im Falle eines Aufpralls, erfordern aber umfangreiches Wissen und modernste Reparaturmethoden.
 
-## Novis hunc qua erat caecisque
+## Professionelle Dellenbeseitigung ohne Lackierung
+Kleine Delle und großer Ärger? Hagelschaden Auto? In unserem hochmodernen Karosseriezentrum kümmern wir uns um Ihr Fahrzeug. Außerdem sind wir Spezialisten im Dellendrücken. Wegen spezieller Werkzeuge und erfahrener Mitarbeiter „massieren“ wir die Dellen im Blechkleid Ihres Fahrzeuges auf umweltfreundliche und kostengünstige Weise heraus. Weitere Anwendungen des Dellendrückens sind Dellen durch Dachlawinen, Eiszapfen, Fallobst oder Kastanien. Ebenfalls möglich ist das Dellendrücken bei Parkremplern wenn der Lack keine Beschädigung aufweist.
 
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
+### Gute Gründe: Umweltfreundlich und preiswert
 
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
+Viele Argumente sprechen für das Dellendrücken: Erstens – bei einer herkömmlichen Dellenreparatur muss das betroffene Bauteil oft neu lackiert werden. Zweitens – beim Dellendrücken werden die Dellen direkt aus dem Blech gedrückt. Drittens – das ist nachhaltiger, benötigt ungefähr 90% weniger Energie und Material und spart obendrein noch bares Geld.
 
-## Naiades latuere rubenti tendere os Phrygum eminus
+### Einfache, direkte und kostenlose Abwicklung mit Ihrer Versicherung
 
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
+Nachdem Ihre Zufriedenheit für Sie ganz oben steht, kümmern wir uns auch um alles andere. Zudem haben wir viel Erfahrung im Umgang mit Versicherungen und kümmern uns um rasche und unkomplizierte Abwicklung mit Ihrer Versicherung. Wir organisieren für Sie die Besichtigung des Schadens durch einen Sachverständigen und kümmern uns auch sonst um alle Ihre Anliegen. Daher rechnen wir Ihren Schaden direkt über die Kaskoversicherung ab. Immerhin haben wir eine ganze Menge an Erfahrung und arbeiten mit folgenden Versicherungen zusammen:
+* HDI
+* Allianz
+* Generali
+* Garanta
+* Nürnberger
+* Oberösterreichische Versicherung
+* Grazer Wechselseitige
+* Wiener Städtische
+* Uniqa
+* Raiffeisen Versicherung
+* Salzburger Landesversicherung
+* Helvetia
+* Zürich
+* Ergo Versicherung
+* Wüstenrot
+* MUKI
 
-## Statuunt nais inponere tamen duodena aemulus mille
+und viele weitere – wenn Sie nicht sicher sind, kontaktieren Sie uns!
+## Kostenloser Leihwagen im Schadensfall
+Damit Sie im Schadensfall mobil bleiben, stellen wir Ihnen für die Reparaturdauer kostenlos einen Werkstattersatzwagen zur Verfügung.
 
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
+## Einfache, direkte und kostenlose Versicherungsabwicklung
+Wir haben viel Erfahrung im Umgang mit Versicherungen und kümmern uns um rasche und unkomplizierte Abwicklung mit Ihrer Versicherung. Wir organisieren für Sie die Besichtigung des Schadens durch einen Sachverständigen und kümmern uns auch sonst um alle Ihre Anliegen.
 
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
+## Windschutzscheiben Reparatur ohne Selbstbehalt
+Steinschläge in Ihrer Windschutzscheibe können dank einer speziellen Reparaturmethode in vielen Fällen preiswert repariert werden. Somit entfällt ein Austausch der Windschutzscheibe. Viele Kaskoversicherungen übernehmen die Kosten einer Glasreparatur ohne das der Selbstbehalt zu bezahlen ist. Sollte eine Reparatur Ihrer Scheibe nicht mehr infrage kommen, wird Ihre Scheibe sauber, rasch und preiswert ersetzt.
 
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+## Abschleppdienst
+Mit unserem Abschlepp-LKW können wir defekte Fahrzeug binnen kürzester Zeit in unsere Fachwerkstatt / Karosseriezentrum schleppen. Ein Anruf genügt!
+
+## Unterbodenkonservierung
+Exzessiver Einsatz von aggressivem Streusalz sowie die dauerhafte Feuchtigkeit im Winter setzen jedem Fahrzeug zu. Sorgen Sie vor und lassen Sie den Unterboden Ihres Fahrzeugs fachgerecht behandeln. Nach einer Unterbodenwäsche lassen wir Ihr Fahrzeug ordentlich trocknen, bevor der Unterboden mit einem Spezialwachs versiegelt wird. Auf Wunsch versiegeln wir zusätzlich auch die Hohlräume an Ihrem Fahrzeug.

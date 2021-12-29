@@ -8,6 +8,9 @@ bodyClass: "page-service"
     <div class="col-12 col-md-8">
       <div class="service service-single">
         <h1 class="title">{{page.title}}</h1>
+        {% if page.intro_image %}
+          <img alt={{ page.title }} class="intro-image-service" src="{{ page.intro_image | relative_url }}" />
+        {% endif %}
         <div class="content">{{content}}</div>
       </div>
     </div>

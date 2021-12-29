@@ -7,8 +7,15 @@ bodyClass: "page-team"
   <div class="row justify-content-start">
     <div class="col-12 col-md-8">
       <div class="team team-single">
+        <div class="team-image">
+          <img width="200" height="200" alt="{{ page.title }}" class="img-fluid mb-2" src="{{ page.image | relative_url }}" />
+        </div>
         <h1 class="title">{{page.title}}</h1>
+        <p class="team-description">{{ page.jobtitle }}</p>
         <div class="content">{{content}}</div>
+        {% if page.phone %}
+            <a href="tel:{{page.phone}}" class="team-phone">Telefon: {{page.phone}}</p>
+        {% endif %}
       </div>
     </div>
   </div>

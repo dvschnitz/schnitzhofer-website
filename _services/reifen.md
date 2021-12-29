@@ -1,53 +1,44 @@
 ---
-title: "Reifen"
+title: "Reifen und Räder"
 date: 2018-11-28T15:14:54+10:00
 featured: true
 weight: 6
 layout: service
+intro_image: "images/photos/reifen.jpg"
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+## Schnitzhofer: Ihr Partner für Reifen, Felgen und Kompletträder
 
-## Ne verba patulosque numen vix libet
+Egal ob Sommerreifen, Winterreifen, Spikereifen oder Ganzjahresreifen. Reifen für PKW, SUV, Geländewagen oder Kleintransporter. Vertrauen Sie auf unsere Kompetenz. Wir sind Ihr Spezialist für Reifen im Lammertal. Denn: Reifen kauft man bei Schnitzhofer. Wo sonst, bei so günstigen Preisen.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Reifen Anfragen – für aktuelle Aktionspreise, Lieferzeiten und alle anderen Fragen stehen Ihnen unsere Reifenspezialisten gerne zur Verfügung:
+<a href="{{ 'team/bartholomaeus-eder/' | relative_url }}">Bartholomäus Eder</a>
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## Erste Klasse: unsere Serviceleistungen rund um Räder und Reifen
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+### Räderwechsel
+Vier Kompletträder umstecken inklusive Reifenluftdruck prüfen
 
-## Postquam tamen
+### Reifendrucksensoren
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+Bei den meisten Fahrzeugen müssen die Reifendrucksensoren nach dem Reifenwechsel mithilfe eines vom Fahrzeughersteller freigegebenen Servicetools kalibriert werden. NEU: Kalibrierung ab sofort für alle Marken möglich!
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+### Reifenhotel
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+Wellness für Ihre Räder – beim fachgerechten Einlagern Ihrer Räder ist für frische Optik beim Saisonwechsel und Schutz vor Korrosion eine Räderwäsche inkludiert
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+### Auswucht Service
+
+Vibrationen am Lenkrad sind unangenehm für den Fahrer und schädlich für Ihr Auto. Das Auswuchten der Räder schafft Abhilfe.
+
+## Alufelgen für jeden Geschmack und jedes Budget
+
+Wir führen Alufelgen aller namhaften Hersteller zu besten Preisen.
+
+* Alcar Felgen
+* Interpneu Räder
+  * Alufelgen von Alutec, ASA, ATS, Borbet, Brock, EtaBeta, Keskin, Motec, OZ, Platin, Rial, Ronal und Tomason
+* Alufelgen von Advanti Racing
+* Ford Original Leichtmetallfelgen
+* Opel Original Leichtmetallfelgen
+* Suzuki Original Leichtmetallfelgen

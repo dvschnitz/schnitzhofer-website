@@ -3,50 +3,68 @@ title: "Mietwagen"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 weight: 4
+intro_image: "images/photos/rent-preisliste.jpg"
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Flexibel, sicher und preiswert: Mietwagen bei Schnitzhofer
 
-## Ne verba patulosque numen vix libet
+Sie machen Urlaub in Abtenau, Golling, Annaberg, Rußbach, Gosau oder St.Martin und suchen einen Mietwagen? Wir haben einen umfangreichen Fuhrpark von Leihwagen. Unser Familienunternehmen liegt im Zentrum von Abtenau in der Nähe der Bushaltestelle Postamt. Von dort sind es auf dem Fußweg nur 5 Minuten bis zu uns, auf Wunsch können wir Sie von dort kostenlos abholen.
 
-Agitabitur signa lympha; **non lacunae** mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Sie möchten es gerne bequemer? Gegen Aufpreis bringen wir Ihnen den Mietwagen bis zu Ihrer Unterkunft. Vom preiswerten Kleinwagen bis zum geräumigen Van mit Platz für bis zu 9 Personen. Egal ob Sie Urlaub in der Region machen, einen Ausflug planen oder einen zusätzlichen Firmenwagen auf Zeit benötigen. Sie benötigen ein Fahrzeug länger als 1 Monat? Fragen Sie uns! Wir machen Ihnen ein Angebot. Wir kümmern uns um Ihre Mobilität.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## Ihre Ansprechpartner für die Mietwagen
+<a href="{{ 'team/alexandra-kranebitter/' | relative_url }}">Alexandra Kranebitter</a>
 
-Locus evicit __loquuntur Tyrrhena omnes__, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+<a href="{{ 'team/josef-schnitzhofer/' | relative_url }}">Josef Schnitzhofer</a>
 
-## Postquam tamen
+## Öffnungszeiten: Mietwagen Abholung und Rückgabe
+Montag bis Freitag von 7.45 bis 12.00 Uhr und von 13.00 bis 17.30 Uhr
+Samstag von 8.00 bis 12.00 Uhr
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+## Führerschein
+Der Fahrer muss bei Mietbeginn seit mindestens einem Jahr in Besitz eines gültigen Führerscheins sein.
+Anmietung/Rückgabe: Ein Miettag hat 24 Stunden, ein Mietmonat 30 Tage. Alle Preise werden pro angefangenem Miettag berechnet.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+## Betankung
+Unsere Mietwagen sind in der Regel vollgetankt und müssen vollgetankt zurückgebracht werden.
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+## Zahlungsmittel
+Bar, Kreditkarte (Visa, MasterCard), Bankomat, Maestro. Die Kaution beträgt € 600,- und kann per Kreditkarte oder unter Umständen in bar hinterlegt werden.
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+## Fahrzeugzustellung und Abholung
+Bahnhof Golling und im Umkreis von 20km: pro Zustellfahrt € 60,-
+
+Sie erhalten 50% Rabatt auf diesen Preis, wenn Sie unseren Fahrer mit dem Mietwagen wieder in unseren Betrieb nach Abtenau begleiten.
+
+## Zusatzleistungen
+GPS Verleih € 12,- pro Tag
+Schneeketten € 20,- pro Tag
+
+## Versicherungsschutz
+Unsere Mietpreise beeinhalten eine Vollkasko Versicherung mit einem Selbstbehalt von € 1.000,- pro Schadensfall.
+Eine Haftungsreduzierung auf € 300,- Selbstbehalt kostet € 10,- pro Tag.
+
+## Reinigungskosten
+Bei stark verschmutzten Fahrzeugen und Innenräumen verrechnen wir den benötigten Arbeitsaufwand.
+
+## Wochenende
+Freitag 13.00 Uhr bis Montag 8.00 Uhr
+
+## Mindestalter
+21 Jahre
+
+## Jungfahrerzuschlag bis 24 Jahre
+€ 12,- pro Tag
+
+## Preise
+Alle Preise inklusive gesetzlicher Mehrwertsteuer.
+
+## Kooperationspartner
+OPEL rent | FORD | SUZUKI
+
+## Rent a car in Abtenau and just enjoy your holidays!
+We are a family based company in the centre of Abtenau and offer car rentals. The best and easiest way to explore Salzburg, the famous Salzkammergut or the rest of Austria. All our prices include taxes and VAT.
+
+Check out our nice selection of rental cars. Almost every size and car class.
+
+For further informations and an individual offer please contact: <a href="{{ 'team/josef-schnitzhofer/' | relative_url }}">Josef Schnitzhofer</a>
