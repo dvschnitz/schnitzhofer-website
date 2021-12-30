@@ -5,7 +5,8 @@
       "url": "images/logo/ford.svg",
       "width": 80,
       "height": 80
-    }
+    },
+    "link":"/neuwagen#ford"
   },
   {
     "description": "Hohe Qualität, Allradantrieb und bestes Preis/Leistung.",
@@ -13,7 +14,8 @@
       "url": "images/logo/suzuki.svg",
       "width": 80,
       "height": 80
-    }
+    },
+    "link":"/neuwagen#suzuki"
   },
   {
     "description": "Finden Sie hier unsere aktuellen Neuwagen Angebote.",
@@ -21,6 +23,7 @@
       "url": "images/logo/opel.svg",
       "width": 80,
       "height": 80
-    }
+    },
+    "link":"/neuwagen#opel"
   }
 ]

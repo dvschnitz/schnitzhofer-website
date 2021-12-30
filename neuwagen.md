@@ -5,6 +5,38 @@ description: Neuwagen Angebot Josef Schnitzhofer Abtenau
 bodyClass: page-cars
 ---
 
+# Ford
+### Ihr Partner für Ford PKW und Ford Nutzfahrzeuge seit 1984.
+
+<img src="{{ 'images/photos/ford.jpg' | relative_url }}" alt="Ford"/>
+
+Egal ob Sie sich für einen neuen oder gebrauchten bei Ford Schnitzhofer entscheiden: kompetente und ehrliche Beratung sowie ausgezeichnetes Preis/Leistungsverhältnis dürfen Sie erwarten. Kompetenz in Verkauf und Service. Wir bieten immer die passende Lösung – egal ob für Ihren Privat-PKW oder Firmenfahrzeuge.
+
+# Suzuki
+### Zuverlässige Qualität, Allradantrieb und bestes Preis/Leistungs-Verhältnis
+
+<img src="{{ 'images/photos/suzuki.jpg' | relative_url }}" alt="Suzuki"/>
+
+Den ALLGRIP Allrad Antrieb gibt es für fast alle Modelle: Vom kleinen Ignis, über den Swift, den S-CROSS, den Jimny bis zum Vitara. Wir sind seit 1996 kompetenter Partner für Verkauf und Technik. Deshalb können wir Sie bestens beraten. Alle aktuellen Modelle können Sie in unserem Schauraum in Ruhe besichtigen. Auch eine Probefahrt mit dem gewünschten Fahrzeug ist natürlich möglich.
+
+### Große Auswahl an Allrad Autos und Kleinwagen
+
+Ignis Allrad, Swift Allrad, Jimny Allrad, Vitara Allrad, SX4 S-CROSS ALLRAD. Profitieren Sie von unserer ALLGRIP Kompetenz. Durch das geringe Fahrzeuggewicht und enorm sparsame Motoren der Suzukimodelle überzeugen diese durch günstigen Verbrauch. Überzeugen Sie sich.
+
+Wir sind Ihr Allradprofi in Abtenau.
+[schnitzhofer.suzuki.at](https://schnitzhofer.suzuki.at)
+
+# Opel
+### Die Zukunft gehört allen
+
+<img src="{{ 'images/photos/opel.jpg' | relative_url }}" alt="Opel"/>
+
+Großartige Modelle treffen auf großartiges Service. Persönliche Beratung und faire Preise. Informieren Sie sich in unserem Schauraum.
+
+Ob Elektrisch, als Benziner oder Diesel Opel bietet für alle Bedürfnisse den passenden Antrieb.
+
+[https://opel.schnitzhofer.at](https://opel.schnitzhofer.at)
+
 <iframe src="https://fahrzeuge.schnitzhofer.at/auto-suchen/?navset=&search%5Bbrand%5D=&search%5Bmodel%5D=&search%5Bcar-type%5D=neu&search%5Bsegment-type%5D=&search%5Bdisplay_price%5D%5Bmin%5D=500&search%5Bdisplay_price%5D%5Bmax%5D=150000&search%5Bmileage%5D%5Bmin%5D=0&search%5Bmileage%5D%5Bmax%5D=300000&search%5Bq%5D=&search%5Blocation_since%5D%5Bmax%5D=&search%5Bdisplay_as_top%5D=&search%5Border_by%5D=title%7CASC&search%5Bpage_size%5D=12&search%5Baction%5D=searchSend&template="
   width="100%"
   height="1000px;"

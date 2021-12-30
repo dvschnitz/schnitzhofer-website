@@ -3,7 +3,7 @@ title: "Josef Schnitzhofer"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/josef-schnitzhofer.jpg"
-jobtitle: "GESCHÄFTSLEITUNG, VERKAUF"
+jobtitle: "GESCHÄFTSFÜHRUNG"
 phone: "06243/2298-17"
 promoted: true
 weight: 1

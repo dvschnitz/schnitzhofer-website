@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Der Schlüssel zu Ihrer Mobilität
 
-Unsere Mitarbeiter kümmern sich mit viel Engagment um alle Belangen rund um ihr Fahrzeug.
+Unsere Mitarbeiter kümmern sich mit viel Engagment in allen Belangen rund um ihr Fahrzeug.

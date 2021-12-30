@@ -1,12 +1,10 @@
 ---
-title: Gebrauchtwagen
+title: Gebraucht&shy;wagen
 layout: cars
 description: Gebrauchtwagen Angebot Josef Schnitzhofer Abtenau
 bodyClass: page-cars
 ---
 
-  <!-- width="100%"
-  height="500px" -->
 <iframe src="https://fahrzeuge.schnitzhofer.at"
   name="Gebrauchtwagen"
   style="border: none; overflow-y: gone; width: 100%; height: 1000px;">

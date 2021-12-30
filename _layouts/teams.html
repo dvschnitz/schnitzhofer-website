@@ -33,7 +33,9 @@ bodyClass: "page-teams"
                     <h2 class="team-name"><a href="{{ team.url | relative_url }}">{{ team.title }}</a></h2>
                     <p class="team-description">{{ team.jobtitle }}</p>
                     {% if team.phone %}
-                        <a href="tel:{{team.phone}}" class="team-phone">Telefon: {{team.phone}}</p>
+                        <a href="tel:{{team.phone}}" class="team-phone">
+                            Telefon: {{team.phone}}
+                        </a>
                     {% endif %}
                     {% if team.linkedinurl %}
                     <a target="_blank" href="{{ team.linkedinurl }}" rel="noreferrer">LinkedIn</a>
