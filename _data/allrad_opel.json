@@ -1,0 +1,20 @@
+[
+  {
+    "title": "GRANDLAND",
+    "image": {
+      "url": "images/cars/grandland.jpg"
+    }
+  },
+  {
+    "title": "COMBO",
+    "image": {
+      "url": "images/cars/combo.jpeg"
+    }
+  },
+  {
+    "title": "VIVARO",
+    "image": {
+      "url": "images/cars/vivaro.jpeg"
+    }
+  }
+]

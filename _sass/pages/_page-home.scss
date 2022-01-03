@@ -1,2 +1,13 @@
 .page-home {
 }
+
+.iframe-popup {
+  height: 500px;
+  width: 100%;
+  border: none;
+  overflow-y: gone;
+
+  @include media-breakpoint-up(md) {
+    height: 600px;
+  }
+}

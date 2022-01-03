@@ -13,10 +13,13 @@ description: Kontakt
 | Mittwoch  | 8:00 - 17:30 | 7:45 - 16:30 | 7:45 - 17:00                   |
 | Donnerstag| 8:00 - 17:30 | 7:45 - 16:30 | 7:45 - 17:00                   |
 | Freitag   | 8:00 - 17:30 | 7:45 - 16:30 | 7:45 - 17:00                   |
-| Samstag   | 9:00 - 12:00 | Geschlossen |   Geschlossen                   |
+| Samstag   | 9:00 - 12:00 | Geschlossen  |  Geschlossen                   |
 
 
 ## Anfahrt
+<iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=13.3484423160553%2C47.562453685616624%2C13.35069537162781%2C47.56373690141829&amp;layer=mapnik&amp;marker=47.56309667535974%2C13.34957065184426" style="border: 1px solid black"></iframe>
+<div class="mb-1"><a href="https://www.openstreetmap.org/?mlat=47.56310&amp;mlon=13.34957#map=19/47.56310/13.34957">Größere Karte anzeigen</a></div>
+<div><a href="https://g.page/schnitzhofer?share">Auf Google Maps ansehen</a></div>
 
 ### Von Norden – Salzburg/München/Linz kommend
 

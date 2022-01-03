@@ -1,0 +1,50 @@
+[
+  {
+    "title": "KUGA",
+    "image": {
+      "url": "images/cars/kuga.png"
+    }
+  },
+  {
+    "title": "GALAXY",
+    "image": {
+      "url": "images/cars/galaxy.png"
+    }
+  },
+  {
+    "title": "S-MAX",
+    "image": {
+      "url": "images/cars/smax.png"
+    }
+  },
+  {
+    "title": "EXPLORER PLUG-IN HYBRID",
+    "image": {
+      "url": "images/cars/explorer.png"
+    }
+  },
+  {
+    "title": "TOURNEO CONNECT",
+    "image": {
+      "url": "images/cars/tourneo-connect.webp"
+    }
+  },
+  {
+    "title": "RANGER",
+    "image": {
+      "url": "images/cars/ranger.png"
+    }
+  },
+  {
+    "title": "TRANSIT",
+    "image": {
+      "url": "images/cars/transit.png"
+    }
+  },
+  {
+    "title": "MUSTANG MACH-E AWD",
+    "image": {
+      "url": "images/cars/mach-e.png"
+    }
+  }
+]

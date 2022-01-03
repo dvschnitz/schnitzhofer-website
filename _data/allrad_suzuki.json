@@ -1,0 +1,38 @@
+[
+  {
+    "title": "SWIFT",
+    "image": {
+      "url": "images/cars/swift.png"
+    }
+  },
+  {
+    "title": "IGNIS",
+    "image": {
+      "url": "images/cars/ignis.png"
+    }
+  },
+  {
+    "title": "JIMNY",
+    "image": {
+      "url": "images/cars/jimny.png"
+    }
+  },
+  {
+    "title": "VITARA",
+    "image": {
+      "url": "images/cars/vitara.jpeg"
+    }
+  },
+  {
+    "title": "S-CROSS",
+    "image": {
+      "url": "images/cars/s-cross.png"
+    }
+  },
+  {
+    "title": "A-CROSS PLUG-IN HYBRID",
+    "image": {
+      "url": "images/cars/a-cross.png"
+    }
+  }
+]

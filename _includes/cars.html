@@ -1,0 +1,16 @@
+
+<div class="container pt-1 pb-1 pt-md-2 pb-md-2 ">
+  <div class="row justify-content-center">
+
+    {% for car in site.data[include.brand] %}
+      <div class="col-12 col-md-6 col-lg-4 mb-2">
+          <div class="car">
+            {% if car.image %}
+            <div class="car-image"><img alt="{{ car.title }} Bild" src="{{ car.image.url | relative_url }}"/></div>
+            {% endif %}
+            <h2 class="car-title">{{ car.title }}</h2>
+          </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

@@ -1,46 +1,37 @@
 ---
-title: "Allradautos"
+title: "Allrad Auto"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 5
 layout: service
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Im Autohaus Schnitzhofer haben Sie eine große Auswahl an Allrad Autos. Autos mit Allradantrieb bieten einige Vorteile. Wir möchten Sie hier informieren:
+* Welche Allradautos sind bei uns erhältlich?
+* Was sind Vor- und Nachteile von Allradautos?
 
-- Nata perque
-- Et ferrugine laedam
-- Cedere tandem Atlante maiestas Italicis ut forma
+## Hier eine Übersicht nach Marken
 
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
+### FORD
+{% include cars.html brand='allrad_ford' %}
 
-1. Imagine Assaracus victori petet femina mea haustos
-2. Sicaniam quibus agro magni
-3. In utque Troica pedum caelestia hunc tempto
-4. Gregibus certare tamen turbatque qui
+### SUZUKI
+{% include cars.html brand='allrad_suzuki' %}
 
-## Patulis Veneris est expulit adversaque magnum mediaque
+### OPEL
+{% include cars.html brand='allrad_opel' %}
 
-Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
-subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,
-**mitescere**, ferro queat, porrigitur exiguas viridique mille quis latus
-quodque. Non una genuisse ullis efficiet ad corpore nunc mentesque praestant?
+### Hier die Vorteile:
+1. Der wahrscheinlich wichtigste Vorteil: Statt zwei Rädern werden vier Räder angetrieben.
+2. Dadurch haben die Reifen mehr Haftung.
+3. Man vermeidet Hängenbleiben im Winter und auf rutschigem Boden.
+4. Bei starkem Beschleunigen drehen die Räder weniger leicht durch und man spürt weniger
+5. Die Reifen werden gleichmäßiger abgefahren.
+6. Je nach Allradsystem: Sichereres Bergabfahren mit Motorbremse
 
-_Diduxit manibus_ anguis contraxit, suas et lacus nec soceri fores alis nec,
-nec! Data pater Perseu minanti animam operitur illa dolorem.
+### Die Nachteile sind:
+1. Das Gewicht des Autos erhöht sich.
+2. Deshalb ist auch der Verbrauch höher.
+3. Allrad Autos sind teurer.
 
-Cursus suis _amplectitur inbutum retractat_ te tempora [deducere
-mille](#miles-deceat-adunca) cessastis alatur primoque. Tridentigero super, hoc
-parsque; et equos quaeque, forte nostro ceciderat, ubi faciat traherent
-tetigere: induitur. Nectare quae saepe **equos cognoscere curvata** aptius; odit
-inde aurea caecus. Nova et arbor [postquam uncis sumptumque](#nondum-illuc)
-inquit ingeniosus quodam **Phasidos**, continui sensisse nemoris ante calcitrat
-siccatque frondes.
-
-Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
-formosus servat potui. Luce ebur, pulcherrimus plus tradere! _Quam perque
-semper_?
+Am Ende kann man nicht sagen, dass ein Allrad Auto immer besser ist. Es kommt auf die jeweiligen Bedürfnisse an. Wir beraten Sie gerne.
