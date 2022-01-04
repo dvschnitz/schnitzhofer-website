@@ -5,6 +5,7 @@ draft: false
 image: "images/team/dorli-schnitzhofer.jpg"
 jobtitle: "BUCHHALTUNG"
 phone: "06243/2298-11"
+email: "office@schnitzhofer.at"
 promoted: true
 weight: 3
 ---

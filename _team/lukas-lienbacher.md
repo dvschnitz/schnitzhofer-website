@@ -8,4 +8,4 @@ promoted: true
 weight: 17
 ---
 
-Unser jüngster Lehrling im Betrieb. Auf ihn ist immer Verlass.
+Das neueste Mitglied in unserem Team. Hat seinen Führerschein schon in der Tasche und Freude am Automobil.

@@ -14,7 +14,10 @@ bodyClass: "page-team"
         <p class="team-description">{{ page.jobtitle }}</p>
         <div class="content">{{content}}</div>
         {% if page.phone %}
-            <a href="tel:{{page.phone}}" class="team-phone">Telefon: {{page.phone}}</p>
+          Telefon: <a href="tel:{{page.phone}}" class="team-phone">{{page.phone}}</a></p>
+        {% endif %}
+        {% if page.email %}
+          Email: <a href="mailto:{{page.email}}" class="team-phone">{{page.email}}</a></p>
         {% endif %}
       </div>
     </div>
