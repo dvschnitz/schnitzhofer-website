@@ -2,7 +2,7 @@
 title: "Pannenhilfe"
 date: 2018-11-18T12:33:46+10:00
 featured: false
-weight: 6
+weight: 8
 layout: service
 ---
 
