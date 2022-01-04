@@ -1,6 +1,6 @@
 ---
 title: Neuwagen
-layout: cars
+layout: page
 description: Neuwagen Angebot Josef Schnitzhofer Abtenau
 bodyClass: page-cars
 ---
