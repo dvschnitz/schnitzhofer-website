@@ -3,7 +3,7 @@ main:
     url: "/neuwagen/"
     weight: 1
   - name: "Gebrauchtwagen"
-    url: "/gebrauchtwagen/"
+    url: "https://fahrzeuge.schnitzhofer.at/auto-suchen/"
     weight: 2
   - name: "Dienstleistungen"
     url: "/services/"
