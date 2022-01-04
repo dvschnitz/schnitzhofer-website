@@ -6,7 +6,8 @@ bodyClass: page-cars
 ---
 
 In unserem Autohaus finden Sie die drei Marken Ford, Suzuki und Opel unter einem Dach.
-Unseren aktuellen Fahrzeugbestand finden Sie unter [fahrzeuge.schnitzhofer.at](https://fahrzeuge.schnitzhofer.at/).
+
+<a href="https://fahrzeuge.schnitzhofer.at" class="button">Unsere aktuellen Fahrzeuge</a>
 # Ford
 ### Ihr Partner für Ford PKW und Ford Nutzfahrzeuge seit 1984.
 
