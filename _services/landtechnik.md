@@ -30,5 +30,4 @@ Den Verkauf und die Reparatur von Landmaschinen haben wir eingestellt. Bei uns b
 * Weidezaun -und Stallbedarf
 
 ### Ihr Ansprechpartner
-
-<a href="{{ 'team/bartholomaeus-eder/' | relative_url }}">Bartholomäus Eder</a>
+{% include contact-person.html contact='Bartholomäus Eder' %}

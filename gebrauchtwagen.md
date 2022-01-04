@@ -17,9 +17,9 @@ bestimmtes Fahrzeug? Wir beraten Sie gerne. Profitieren Sie von unserer langjäh
 
 
 ### Ihre Ansprechpartner
-<a href="{{ 'team/josef-schnitzhofer/' | relative_url }}">Josef Schnitzhofer</a>
+{% include contact-person.html contact='Josef Schnitzhofer' %}
 
-<a href="{{ 'team/josef-schnitzhofer-sen/' | relative_url }}">Josef Schnitzhofer sen.</a>
+{% include contact-person.html contact='Josef Schnitzhofer sen.' %}
 
 ### Unsere Gebrauchtwagen bieten viele Vorteile:
 

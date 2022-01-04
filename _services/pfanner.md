@@ -25,4 +25,4 @@ Lodenhosen und Funktionsbekleidung, egal ob für Arbeit oder Freizeit. Pfanner S
 [Der aktuelle Pfanner Katalog](https://pfanner-austria.at/downloads/kataloge/)
 
 ### Ihr Ansprechpartner
-<a href="{{ 'team/bartholomaeus-eder/' | relative_url }}">Bartholomäus Eder</a>
+{% include contact-person.html contact='Bartholomäus Eder' %}

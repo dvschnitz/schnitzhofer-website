@@ -35,7 +35,7 @@ Fahren Sie bis Gosau, in Gosau abbiegen Richtung Pass Gschütt/Abtenau. Fahren S
 
 ### Navigationssystem?
 
-Geben Sie die Adresse Markt 191 in 5441 Abtenau ein. Die freundliche Dame lotst Sie dann direkt zu uns.
+Geben Sie die Adresse Markt 191 in 5441 Abtenau ein. Die freundliche Stimme lotst Sie dann direkt zu uns.
 
 ###  Per Bahn/Bus
 

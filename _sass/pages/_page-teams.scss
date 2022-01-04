@@ -38,14 +38,25 @@
     background-color: $white-offset;
     padding: 30px;
     border-radius: 3px;
+    .team-contact {
+      margin-top: 5px;
+    }
+    .team-name {
+      font-family: $font-family-heading !important;
+      a {
+        text-decoration: none !important;
+      }
+    }
     .team-image {
-      height: 90px;
-      width: 90px;
+      height: 90px !important;
+      width: 90px !important;
       margin-right: 20px;
       border-radius: 50%;
       overflow: hidden;
       img {
-        width: 90px;
+        width: 90px !important;
+        height: 90px !important;
+        margin-top: 0;
       }
     }
   }

@@ -21,4 +21,4 @@ Weltraumtechnologie in Ihrem Garten: Mit den extrem laufruhigen, robusten und ve
 [ZUR MODELLÜBERSICHT HONDA GARTENGERÄTE](https://www.honda.at/lawn-and-garden.html)
 
 ### Ihr Ansprechpartner
-<a href="{{ 'team/bartholomaeus-eder/' | relative_url }}">Bartholomäus Eder</a>
+{% include contact-person.html contact='Bartholomäus Eder' %}

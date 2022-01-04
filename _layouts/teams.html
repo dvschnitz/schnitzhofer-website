@@ -33,14 +33,14 @@ bodyClass: "page-teams"
                     <h2 class="team-name"><a href="{{ team.url | relative_url }}">{{ team.title }}</a></h2>
                     <p class="team-description">{{ team.jobtitle }}</p>
                     {% if team.phone %}
-                        <div>Telefon:
+                        <div class="team-contact">Telefon:
                             <a href="tel:{{team.phone}}" class="team-phone">
                                 {{team.phone}}
                             </a>
                         </div>
                     {% endif %}
                     {% if team.email %}
-                        <div>Email:
+                        <div class="team-contact">Email:
                             <a href="mailto:{{team.email}}" class="team-phone">
                                 {{team.email}}
                             </a>

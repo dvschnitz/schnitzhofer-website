@@ -43,4 +43,4 @@ Perfektes Service nach dem Kauf ist uns sehr wichtig. Deshalb bieten wir auf Wun
 Die Garantiezeit für Honda Geräte beträgt 2 Jahre. Mit einer einmaligen Zahlung können Sie die Garantiezeit auf 5 Jahre verlängern. Die Garantieverlängerung kostet zB für eine HS 970 einmalig € 95,00
 
 ### Ihr Ansprechpartner
-<a href="{{ 'team/bartholomaeus-eder/' | relative_url }}">Bartholomäus Eder</a>
+{% include contact-person.html contact='Bartholomäus Eder' %}

@@ -39,3 +39,8 @@ Großartige Modelle treffen auf großartiges Service. Persönliche Beratung und 
 Ob Elektrisch, als Benziner oder Diesel Opel bietet für alle Bedürfnisse den passenden Antrieb.
 
 [opel.schnitzhofer.at](https://opel.schnitzhofer.at)
+
+### Ihre Ansprechpartner
+{% include contact-person.html contact='Josef Schnitzhofer' %}
+
+{% include contact-person.html contact='Josef Schnitzhofer sen.' %}
