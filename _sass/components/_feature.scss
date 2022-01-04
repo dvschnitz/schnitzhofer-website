@@ -10,19 +10,11 @@
   text-align: center;
   .feature-image {
     flex: 0 0 auto;
-    width: 100px;
-    height: 100px;
     display: flex;
     text-align: center;
   }
   img {
     width: 100%;
     height: auto;
-  }
-  .feature-title {
-  }
-  .feature-content {
-    margin-bottom: 0;
-    margin-top: auto;
   }
 }
