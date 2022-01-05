@@ -1,0 +1,96 @@
+
+<div class="term-form">
+  <h2 class="mt-1">IHRE KONTAKTDATEN</h2>
+  <form id="term-form">
+
+    <div class="input-select">
+      <div>Sie sind</div>
+      <select id="Kundentyp">
+        <option>Stammkunde</option>
+        <option>Neukunde</option>
+      </select>
+    </div>
+
+    <div class="section">
+      <div class="input-text">
+        <div>Vorname*</div>
+        <input id="Vorname" required></input>
+      </div>
+      <div class="input-text">
+        <div>Nachname*</div>
+        <input id="Nachname" required></input>
+      </div>
+      <div class="input-text">
+        <div>Telefon*</div>
+        <input id="Telefon" required type="tel"></input>
+      </div>
+      <div class="input-text">
+        <div type="email">E-Mail*</div>
+        <input id="Email" required></input>
+      </div>
+    </div>
+
+    <h2>FAHRZEUGDATEN</h2>
+
+    <div class="section">
+      <div class="input-select">
+        <div>Marke</div>
+        <select id="Marke" required>
+          <option>Ford</option>
+          <option>Opel</option>
+          <option>Suzuki</option>
+          <option>Andere</option>
+        </select>
+      </div>
+      <div class="input-text">
+        <div>Modell*</div>
+        <input id="Modell" required></input>
+      </div>
+      <div class="input-text">
+        <div>Kennzeichen*</div>
+        <input id="Kennzeichen" required></input>
+      </div>
+      <div class="input-text">
+        <div>Kilometer*</div>
+        <input id="Kilometer" required></input>
+      </div>
+      <div class="input-text">
+        <div>Erstzulassung</div>
+        <input id="Erstzulassung"></input>
+      </div>
+    </div>
+
+    <h2>WELCHE ARBEITEN SIND DURCHZUFÜHREN?</h2>
+    <div class="section">
+      <div class="pb-1">Folgende Arbeiten sind durchzuführen*</div>
+      <select id="Arbeiten" multiple required size="7">
+        <option>Service/Wartung</option>
+        <option>Pickerl §57a</option>
+        <option>Räderwechsel</option>
+        <option>Räder einlagern</option>
+        <option>Fahrzeugcheck</option>
+        <option>Unfallschaden</option>
+        <option>Sonstiges</option>
+      </select>
+
+      <div class="pt-2 pb-1">Ihre Nachricht an uns / Infos zum Schaden bzw. zur Reparatur</div>
+      <textarea id="Nachricht" rows="4"></textarea>
+    </div>
+
+    <h2>IHR WUNSCHTERMIN</h2>
+    <div class="pb-2">Wir haben Montag bis Freitag von 7:45 - 16:30 für Sie geöffnet.</div>
+    <div class="input-text">
+      <div>Datum*</div>
+      <input id="Datum" type="date" required></input>
+    </div>
+
+    <div class="input-text pb-3">
+      <div>Uhrzeit*</div>
+      <input id="Uhrzeit" type="time" required></input>
+    </div>
+  </form>
+  <div class="container-button">
+    <button id="button-send-email" class="button button-send mt-1 mb-2">Anfrage per Email senden</button>
+    <button id="button-send-sms" class="button button-send">Anfrage per SMS senden</button>
+  </div>
+</div>

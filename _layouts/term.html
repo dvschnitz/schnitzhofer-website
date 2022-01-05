@@ -1,0 +1,24 @@
+---
+title: Contact
+layout: default
+bodyClass: "page-term"
+---
+
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-start">
+        <div class="col-12 col-md-8">
+            <div class="service service-single">
+                <h1 class="title">{{page.title}}</h1>
+                <div class="content mt-4">
+                    <h2>Termin buchen</h2>
+                    Ob Service, Pickerl, Reifenwechsel oder Unfallschaden: Jetzt Werkstatt Termin im Autohaus Schnitzhofer gleich online vereinbaren. Sie erhalten umgehend Rückmeldung.
+                </div>
+                {% include term-form.html %}
+                <div class="content mt-8">
+                    {{content}}
+                </div>
+                {% include call.html show_button=false %}
+            </div>
+        </div>
+    </div>
+</div>

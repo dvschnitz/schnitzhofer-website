@@ -1,0 +1,45 @@
+.term-form {
+  .section {
+    width: 100%;
+  }
+
+  .input-text {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+
+    div {
+      width: 160px;
+    }
+
+    input {
+      width: 100%;
+      border: 0;
+      border-bottom: 1px solid $primary;
+      font-family: $font-family-base;
+    }
+  }
+  h2 {
+    padding: 20px 0 5px;
+    font-family: $font-family-base;
+    font-weight: normal;
+  }
+
+  .input-select {
+    display: flex;
+    padding: 5px 0;
+
+    div {
+      width: 130px;
+    }
+  }
+
+  select[multiple], textarea {
+    width: 100%;
+    border: 1px solid $primary;
+  }
+
+  .button-send {
+    width: 100%;
+  }
+}
