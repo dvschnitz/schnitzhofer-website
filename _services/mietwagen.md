@@ -14,14 +14,14 @@ Sie möchten es gerne bequemer? Gegen Aufpreis bringen wir Ihnen den Mietwagen b
 ## Preisliste
 
 | KATEGORIE | MODELL       | PREIS PRO TAG |
-| --------- | ------------ | ------------  |
-| **KLEINWAGEN** <img src="{{ 'images/cars/leih-swift.jpg' | relative_url }}" alt="Swift"/> | Ford Fiesta / Puma, Opel Corsa / Mokka, Suzuki Ignis / Swift | € 49,- |
-| **FAMILIENWAGEN** <img src="{{ 'images/cars/leih-focus.png' | relative_url }}" alt="Focus"/> | Ford Focus Turnier / Kuga, Opel Astra, Suzuki Swace       | € 69,- |
-| **BUS** mit 8 oder 9 Sitzen <img src="{{ 'images/cars/leih-zafira.jpg' | relative_url }}" alt="Zafira"/> | Ford Tourneo Custom, Opel Zafira              | € 109,- |
-| **TRANSPORTER** <img src="{{ 'images/cars/leih-transit.jpg' | relative_url }}" alt="Swift"/> | Ford Transit Custom L1H1                                  | € 59,- |
-| **ELEKTRO&shy;FAHRZEUG** <img src="{{ 'images/cars/leih-mustang.png' | relative_url }}" alt="Swift"/> | Ford Mustang Mach E, Opel Zafira E / Mokka E, Suzuki A-Cross PHEV | € 69,- |
+| :---------: | ------------ | ------------:  |
+| **KLEINWAGEN** <img src="{{ 'images/cars/leih-swift.jpg' | relative_url }}" alt="Swift"/> | Ford Fiesta / Puma, Opel Corsa / Mokka, Suzuki Ignis / Swift | **€ 49,-** |
+| **FAMILIENWAGEN** <img src="{{ 'images/cars/leih-focus.png' | relative_url }}" alt="Focus"/> | Ford Focus Turnier / Kuga, Opel Astra, Suzuki Swace       | **€ 69,-** |
+| **BUS** mit 8 oder 9 Sitzen <img src="{{ 'images/cars/leih-zafira.jpg' | relative_url }}" alt="Zafira"/> | Ford Tourneo Custom, Opel Zafira              | **€ 109,-** |
+| **TRANSPORTER** <img src="{{ 'images/cars/leih-transit.jpg' | relative_url }}" alt="Swift"/> | Ford Transit Custom L1H1                                  | **€ 59,-** |
+| **ELEKTRO&shy;FAHRZEUG** <img src="{{ 'images/cars/leih-mustang.jpg' | relative_url }}" alt="Swift"/> | Ford Mustang Mach E, Opel Zafira E / Mokka E, Suzuki A-Cross PHEV | **ab € 69,-** |
 
-## Ihre Ansprechpartner für die Mietwagen
+## Ihre Ansprechpartnerin für Mietwagen
 {% include contact-person.html contact='Alexandra Kranebitter' %}
 ## Unsere Mietwagen sind inklusive
 * Vollkaskoversicherung

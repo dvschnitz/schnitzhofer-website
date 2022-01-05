@@ -23,7 +23,7 @@ Die Firma Schnitzhofer präsentiert sich auf einem geräumigen Areal im Zentrum 
 # Geschichte
 
 ## 1921
-
+<img src="{{ 'images/timeline/1921.jpg' | relative_url }}" alt="Josef Schnitzhofer der Erste"/>
 kauft Josef Schnitzhofer I. die seit dem 16. Jahrhundert bestehende Grabenschmiede in Leitenhaus und deckt damit den damaligen technischen Bedarf der Bauern. Arbeiten wie Hufbeschlag, Wagenschmiede, Anfertigung von Werkzeugen und Pflügen sind damals noch aktuell.
 
 ## 1941
@@ -75,7 +75,7 @@ wird zum Schutz vor Wind und Wetter sowie zur besseren Präsentation der Gebrauc
 im Jänner legt Josef Schnitzhofer jun. die Meisterprüfung für KFZ-Technik erfolgreich in Innsbruck ab.
 
 ## 2011
-
+<img src="{{ 'images/timeline/2011.jpg' | relative_url }}" alt="90 Jahre Feier 2011"/>
 Wir feiern 90 Jahre Schnitzhofer gemeinsam mit Familie und Mitarbeitern. Außerdem werden unsere am längsten dienenden Mitarbeiter geehrt.
 
 ## 2012
