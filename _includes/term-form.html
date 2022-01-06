@@ -58,6 +58,14 @@
         <div>Erstzulassung</div>
         <input id="Erstzulassung"></input>
       </div>
+
+      <div class="input-select">
+        <div>Ich benötige</div>
+        <select id="Ersatzfahrzeug">
+          <option>kein Ersatzfahrzeug</option>
+          <option>ein Ersatzfahrzeug</option>
+        </select>
+      </div>
     </div>
 
     <h2>WELCHE ARBEITEN SIND DURCHZUFÜHREN?</h2>
@@ -75,14 +83,6 @@
 
       <div class="pt-2 pb-1">Ihre Nachricht an uns / Infos zum Schaden bzw. zur Reparatur</div>
       <textarea id="Nachricht" rows="4"></textarea>
-
-      <div class="input-select">
-        <div>Ich benötige</div>
-        <select id="Ersatzfahrzeug">
-          <option>kein Ersatzfahrzeug</option>
-          <option>ein Ersatzfahrzeug</option>
-        </select>
-      </div>
     </div>
 
     <h2>IHR WUNSCHTERMIN</h2>
@@ -92,10 +92,19 @@
       <input id="Datum" type="date" required></input>
     </div>
 
-    <div class="input-text pb-3">
+    <div class="input-text pb-1">
       <div>Uhrzeit*</div>
       <input id="Uhrzeit" type="time" required></input>
     </div>
+
+    <div class="input-select pb-3">
+      <div>Ich möchte</div>
+      <select id="Terminart">
+        <option>auf die Fertigstellung warten</option>
+        <option>bei Fertigstellung kontaktiert werden</option>
+      </select>
+    </div>
+
   </form>
   <div class="container-button">
     <button id="button-send-email" class="button button-send mt-1 mb-2">Anfrage per Email senden</button>

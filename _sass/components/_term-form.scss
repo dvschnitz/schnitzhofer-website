@@ -30,7 +30,10 @@
     padding: 5px 0;
 
     div {
-      width: 130px;
+      width: 120px;
+      @include media-breakpoint-up(lg) {
+        width: 130px;
+      }
     }
   }
 
