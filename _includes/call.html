@@ -26,4 +26,9 @@
         <a href="{{ site.data.contact.contact_button_link }}" class="button">Termin buchen</a>
       </div>
     {% endif %}
+    {% if include.show_accident_button %}
+      <div class="call-box-bottom">
+        <a href="{{ site.data.contact.accident_button_link | relative_url }}" class="button">Pannenhilfe</a>
+      </div>
+    {% endif %}
 </div>

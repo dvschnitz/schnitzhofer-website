@@ -18,7 +18,7 @@ Egal ob Sie sich für einen neuen oder gebrauchten bei Ford Schnitzhofer entsche
 # Suzuki
 ### Zuverlässige Qualität, Allradantrieb und bestes Preis/Leistungs-Verhältnis
 
-<img src="{{ 'images/photos/suzuki.jpg' | relative_url }}" alt="Suzuki"/>
+<img src="{{ 'images/photos/suzuki.JPG' | relative_url }}" alt="Suzuki"/>
 
 Den ALLGRIP Allrad Antrieb gibt es für fast alle Modelle: Vom kleinen Ignis, über den Swift, den S-CROSS, den Jimny bis zum Vitara. Wir sind seit 1996 kompetenter Partner für Verkauf und Technik. Deshalb können wir Sie bestens beraten. Alle aktuellen Modelle können Sie in unserem Schauraum in Ruhe besichtigen. Auch eine Probefahrt mit dem gewünschten Fahrzeug ist natürlich möglich.
 
@@ -44,3 +44,5 @@ Ob Elektrisch, als Benziner oder Diesel Opel bietet für alle Bedürfnisse den p
 {% include contact-person.html contact='Josef Schnitzhofer' %}
 
 {% include contact-person.html contact='Josef Schnitzhofer sen.' %}
+
+{% include contact-person.html contact='Jeanine Hirscher' %}
