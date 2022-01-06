@@ -15,6 +15,9 @@
   flex-direction: column;
   &.open {
     opacity: 0.9;
+    @media screen and (-webkit-min-device-pixel-ratio:0) and (min-resolution:.001dpcm) {
+      opacity: 1;
+    }
     visibility: visible;
     height: 100%;
     z-index: 20;
