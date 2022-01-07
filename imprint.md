@@ -2,7 +2,7 @@
 title: Impressum
 layout: page
 description: Impressum
-permalink: "/imprint/"
+permalink: "/impressum/"
 ---
 
 Firmenname: Josef Schnitzhofer GmbH

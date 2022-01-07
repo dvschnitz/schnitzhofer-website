@@ -3,7 +3,7 @@ main:
     url: "/neuwagen/"
     weight: 1
   - name: "Gebrauchtwagen"
-    url: "/gebrauchtwagen/"
+    url: "/fahrzeuge/"
     weight: 2
   - name: "Dienstleistungen"
     url: "/services/"
@@ -26,5 +26,5 @@ footer:
     url: "/contact/"
     weight: 2
   - name: "Impressum"
-    url: "/imprint/"
+    url: "/impressum/"
     weight: 3
